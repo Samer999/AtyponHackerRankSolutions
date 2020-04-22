@@ -1,0 +1,3 @@
+Hints
+
+make HashMap or Array for frequency

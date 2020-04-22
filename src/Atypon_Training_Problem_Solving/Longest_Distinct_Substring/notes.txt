@@ -1,0 +1,4 @@
+Hints
+
+use 2 pointers
+HashMap or Arrays to store frequency
